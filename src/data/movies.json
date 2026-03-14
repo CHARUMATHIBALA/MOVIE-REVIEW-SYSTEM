@@ -1,0 +1,363 @@
+[
+{
+"id": 1,
+"title": "Leo",
+"year": 2023,
+"genre": "Action / Thriller",
+"rating": 4.6,
+"poster": "https://picsum.photos/seed/leo/300/450.jpg",
+"description": "A mysterious man with a violent past tries to protect his family.",
+"reviews": [
+{"user": "Arun", "rating": 5, "comment": "Mass action movie!"},
+{"user": "Divya", "rating": 4, "comment": "Great visuals and music."}
+]
+},
+{
+"id": 2,
+"title": "Thunivu",
+"year": 2023,
+"genre": "Action / Drama",
+"rating": 4.2,
+"poster": "https://picsum.photos/seed/thunivu/300/450.jpg",
+"description": "A common man rises against corruption in modern society.",
+"reviews": [
+{"user": "Karthik", "rating": 4, "comment": "Strong social message."}
+]
+},
+{
+"id": 3,
+"title": "Ponniyin Selvan",
+"year": 2022,
+"genre": "Drama / Action",
+"rating": 4.3,
+"poster": "https://picsum.photos/seed/ponniyin/300/450.jpg",
+"description": "A tribal warrior leads his people during the colonial era.",
+"reviews": [
+{"user": "Priya", "rating": 4, "comment": "Unique storytelling."}
+]
+},
+{
+"id": 4,
+"title": "Vikram",
+"year": 2022,
+"genre": "Action / Thriller",
+"rating": 4.4,
+"poster": "https://picsum.photos/seed/vikram/300/450.jpg",
+"description": "A thrilling action story about survival and revenge.",
+"reviews": [
+{"user": "Siva", "rating": 5, "comment": "Kamal Haasan's performance top!"}
+]
+},
+{
+"id": 5,
+"title": "Vettaiyan",
+"year": 2022,
+"genre": "Action / Drama",
+"rating": 4.5,
+"poster": "https://picsum.photos/seed/vettaiyan/300/450.jpg",
+"description": "A powerful cop fights against crime and corruption.",
+"reviews": [
+{"user": "Ram", "rating": 4, "comment": "Ajith's style is amazing!"}
+]
+},
+{
+"id": 6,
+"title": "Kanguva",
+"year": 2024,
+"genre": "Fantasy / Action",
+"rating": 4.1,
+"poster": "https://picsum.photos/seed/kanguva/300/450.jpg",
+"description": "A warrior's journey across centuries to protect his people.",
+"reviews": [
+{"user": "Meena", "rating": 4, "comment": "Amazing VFX."}
+]
+},
+{
+"id": 7,
+"title": "Dragon",
+"year": 2023,
+"genre": "Fantasy",
+"rating": 4.0,
+"poster": "https://picsum.photos/seed/dragon/300/450.jpg",
+"description": "A mythical adventure about a hero and a legendary dragon.",
+"reviews": [
+{"user": "Hari", "rating": 4, "comment": "Fun fantasy movie."}
+]
+},
+{
+"id": 8,
+"title": "Garudan",
+"year": 2023,
+"genre": "Action / Thriller",
+"rating": 4.2,
+"poster": "https://picsum.photos/seed/garudan/300/450.jpg",
+"description": "A man stands against injustice in a small town.",
+"reviews": [
+{"user": "Deepak", "rating": 4, "comment": "Strong story."}
+]
+},
+{
+"id": 9,
+"title": "Captain Miller",
+"year": 2022,
+"genre": "Action",
+"rating": 4.3,
+"poster": "https://picsum.photos/seed/captainmiller/300/450.jpg",
+"description": "A rebel fights against colonial forces.",
+"reviews": [
+{"user": "Ajay", "rating": 4, "comment": "Good action scenes."}
+]
+},
+{
+"id": 10,
+"title": "Amaran",
+"year": 2022,
+"genre": "Biography / Action",
+"rating": 4.4,
+"poster": "https://picsum.photos/seed/amaran/300/450.jpg",
+"description": "Story of a brave Indian soldier.",
+"reviews": [
+{"user": "Lakshmi", "rating": 5, "comment": "Very emotional movie."}
+]
+},
+{
+"id": 11,
+"title": "Raayan",
+"year": 2023,
+"genre": "Action / Drama",
+"rating": 4.2,
+"poster": "https://picsum.photos/seed/raayan/300/450.jpg",
+"description": "A man caught in a web of family and violence in North Chennai.",
+"reviews": [
+{"user": "Bala", "rating": 4, "comment": "Raw and gritty."}
+]
+},
+{
+"id": 12,
+"title": "Maharaja",
+"year": 2023,
+"genre": "Action / Thriller",
+"rating": 4.7,
+"poster": "https://picsum.photos/seed/maharaja/300/450.jpg",
+"description": "A barber's life turns upside down after a home invasion.",
+"reviews": [
+{"user": "Nithya", "rating": 5, "comment": "Mind-blowing twists!"}
+]
+},
+{
+"id": 13,
+"title": "Lubber Pandhu",
+"year": 2023,
+"genre": "Sports / Drama",
+"rating": 4.5,
+"poster": "https://picsum.photos/seed/lubberpandhu/300/450.jpg",
+"description": "A rivalry between two generations of street cricketers.",
+"reviews": [
+{"user": "Guna", "rating": 5, "comment": "Heartwarming and entertaining."}
+]
+},
+{
+"id": 14,
+"title": "Kudumbasthan",
+"year": 2024,
+"genre": "Family / Comedy",
+"rating": 4.0,
+"poster": "https://picsum.photos/seed/kudumbasthan/300/450.jpg",
+"description": "The comedic struggles of a man trying to balance his family life.",
+"reviews": [
+{"user": "Swetha", "rating": 4, "comment": "Relatable and funny."}
+]
+},
+{
+"id": 15,
+"title": "Brother",
+"year": 2023,
+"genre": "Family / Drama",
+"rating": 3.9,
+"poster": "https://picsum.photos/seed/brother/300/450.jpg",
+"description": "A story about the bond between a brother and his sister.",
+"reviews": [
+{"user": "Jay", "rating": 4, "comment": "Feel-good movie."}
+]
+},
+{
+"id": 16,
+"title": "Aranmanai 4",
+"year": 2023,
+"genre": "Horror / Comedy",
+"rating": 4.0,
+"poster": "https://picsum.photos/seed/aranmanai4/300/450.jpg",
+"description": "A haunted palace and a family's fight against a ghost.",
+"reviews": [
+{"user": "Ravi", "rating": 4, "comment": "Good entertainment package."}
+]
+},
+{
+"id": 17,
+"title": "Hit List",
+"year": 2024,
+"genre": "Crime / Thriller",
+"rating": 4.1,
+"poster": "https://picsum.photos/seed/hitlist/300/450.jpg",
+"description": "A cop races against time to stop a serial killer with a list.",
+"reviews": [
+{"user": "Vikram", "rating": 4, "comment": "Keeps you on the edge."}
+]
+},
+{
+"id": 18,
+"title": "Genie",
+"year": 2024,
+"genre": "Fantasy / Comedy",
+"rating": 3.8,
+"poster": "https://picsum.photos/seed/genie/300/450.jpg",
+"description": "A down-on-his-luck man finds a magical genie in a lamp.",
+"reviews": [
+{"user": "Anu", "rating": 4, "comment": "Light-hearted and fun."}
+]
+},
+{
+"id": 19,
+"title": "Good Night",
+"year": 2023,
+"genre": "Romance / Drama",
+"rating": 4.3,
+"poster": "https://picsum.photos/seed/goodnight/300/450.jpg",
+"description": "A young man's relationship is tested due to his snoring problem.",
+"reviews": [
+{"user": "Preethi", "rating": 5, "comment": "So cute and real."}
+]
+},
+{
+"id": 20,
+"title": "Blue Star",
+"year": 2023,
+"genre": "Sports / Drama",
+"rating": 4.1,
+"poster": "https://picsum.photos/seed/bluestar/300/450.jpg",
+"description": "Rural cricket rivalry in the 1990s.",
+"reviews": [
+{"user": "Surya", "rating": 4, "comment": "Nostalgic and powerful."}
+]
+},
+{
+"id": 21,
+"title": "Boat",
+"year": 2023,
+"genre": "Horror / Thriller",
+"rating": 3.9,
+"poster": "https://picsum.photos/seed/boat/300/450.jpg",
+"description": "Passengers on a boat struggle to survive against a supernatural force.",
+"reviews": [
+{"user": "Kavin", "rating": 4, "comment": "Scary and suspenseful."}
+]
+},
+{
+"id": 22,
+"title": "Vanangaan",
+"year": 2024,
+"genre": "Action / Drama",
+"rating": 4.2,
+"poster": "https://picsum.photos/seed/vanangaan/300/450.jpg",
+"description": "A man with a troubled past finds a new purpose in life.",
+"reviews": [
+{"user": "Bhavani", "rating": 4, "comment": "Powerful performance."}
+]
+},
+{
+"id": 23,
+"title": "Rebel",
+"year": 2023,
+"genre": "Action",
+"rating": 4.0,
+"poster": "https://picsum.photos/seed/rebel/300/450.jpg",
+"description": "A young man rises against a corrupt system.",
+"reviews": [
+{"user": "Dinesh", "rating": 4, "comment": "Good mass moments."}
+]
+},
+{
+"id": 24,
+"title": "The Greatest of All Time",
+"year": 2024,
+"genre": "Sci-Fi / Action",
+"rating": 4.5,
+"poster": "https://picsum.photos/seed/goat/300/450.jpg",
+"description": "A spy confronts his past self in a high-concept action thriller.",
+"reviews": [
+{"user": "Joseph", "rating": 5, "comment": "Mind-blowing concept!"}
+]
+},
+{
+"id": 25,
+"title": "SK 21",
+"year": 2024,
+"genre": "Action / Adventure",
+"rating": 4.1,
+"poster": "https://picsum.photos/seed/sk21/300/450.jpg",
+"description": "A globetrotting adventure filled with high-octane action.",
+"reviews": [
+{"user": "Raj", "rating": 4, "comment": "Stylish and fun."}
+]
+},
+{
+"id": 26,
+"title": "Jailer",
+"year": 2023,
+"genre": "Action / Comedy",
+"rating": 4.6,
+"poster": "https://picsum.photos/seed/jailer/300/450.jpg",
+"description": "The fearless tiger returns to take on a new threat.",
+"reviews": [
+{"user": "Mani", "rating": 5, "comment": "Rajinikanth's swag is unmatched!"}
+]
+},
+{
+"id": 27,
+"title": "Retro",
+"year": 2024,
+"genre": "Action / Romance",
+"rating": 4.3,
+"poster": "https://picsum.photos/seed/retro/300/450.jpg",
+"description": "A stylish love story set against a violent backdrop.",
+"reviews": [
+{"user": "SuriyaFan", "rating": 4, "comment": "Great chemistry and action."}
+]
+},
+{
+"id": 28,
+"title": "Demonte Colony 3",
+"year": 2024,
+"genre": "Horror / Thriller",
+"rating": 4.2,
+"poster": "https://picsum.photos/seed/demonte3/300/450.jpg",
+"description": "The next terrifying chapter in the haunted mansion saga.",
+"reviews": [
+{"user": "Arul", "rating": 4, "comment": "Chilling atmosphere."}
+]
+},
+{
+"id": 29,
+"title": "Love Insurance Kompany",
+"year": 2024,
+"genre": "Romantic / Comedy",
+"rating": 3.9,
+"poster": "https://picsum.photos/seed/loveinsurance/300/450.jpg",
+"description": "A unique company that offers insurance for love stories.",
+"reviews": [
+{"user": "Harini", "rating": 4, "comment": "Fresh and funny concept."}
+]
+},
+{
+"id": 30,
+"title": "Nesippaya",
+"year": 2024,
+"genre": "Romance",
+"rating": 3.8,
+"poster": "https://picsum.photos/seed/nesippaya/300/450.jpg",
+"description": "A modern love story exploring the depths of emotions.",
+"reviews": [
+{"user": "Madhan", "rating": 4, "comment": "Beautiful visuals and music."}
+]
+}
+]
